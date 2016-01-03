@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jisoo Kim]]></title>
-        <description><![CDATA[Jisoo Kim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Game Development Generalist]]></title>
+        <description><![CDATA[Game Development Generalist]]></description>
+        <link>https://thegrid.ai/jisoo-kim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 18:27:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 16:46:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jisoo-kim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lissandra statue]]></title>
+            <description><![CDATA[<article><h1>lissandra statue</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ff7549b-db0c-4696-a849-1845e3d2a6d0.png"></article>]]></description>
+            <link>https://thegrid.ai/jisoo-kim/lissandra-statue/index.html</link>
+            <guid isPermaLink="false">4d2b2560-11c6-4a24-92cb-e42ab0139e82</guid>
+            <pubDate>Sun, 03 Jan 2016 16:45:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/jisoo-kim/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">f4d84143-b1ba-4827-9314-deed743d8f24</guid>
             <pubDate>Thu, 10 Dec 2015 18:27:05 GMT</pubDate>
         </item>
